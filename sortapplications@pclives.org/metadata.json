@@ -1,0 +1,8 @@
+{
+  "name": "Sort Applications List",
+  "description": "Sort Applications List",
+  "uuid": "sortapplications@pclives.org",
+  "shell-version": [
+    "41"
+  ]
+}
